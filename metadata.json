@@ -1,0 +1,6 @@
+{
+  "name": "Société ARG",
+  "description": "Société ARG Chasse touristique au Maroc landing page",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
